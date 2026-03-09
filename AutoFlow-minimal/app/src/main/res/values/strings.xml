@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoFlow</string>
+    <string name="accessibility_service_description">AutoFlow自动化服务，用于自动执行预设任务</string>
+</resources>
